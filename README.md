@@ -1,0 +1,5 @@
+So, this is the game im making for my school project.
+It'll be a simple tower defence game. 2D one.
+
+It'll be a simple tower defence game. 2D one.
+I'll try to push every update here too.
