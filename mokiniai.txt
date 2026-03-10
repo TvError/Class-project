@@ -1,0 +1,3 @@
+Jonas Jonaitis;16;9.5
+Petras Petraitis;17;8.0
+Ona Onaitė;16;10.0
