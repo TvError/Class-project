@@ -3,3 +3,5 @@ It'll be a simple tower defence game. 2D one.
 
 It'll be a simple tower defence game. 2D one.
 I'll try to push every update here too.
+
+Some news, im kinda reviving the project. So i'll start pushing out updates soon. Stay tuned :)
